@@ -1,6 +1,10 @@
-# Burn
+<p align="center">
+  <img src="docs/icon.png" alt="Burn app icon" width="128" height="128">
+</p>
 
-**See what each app really costs your Mac — and what to do about it.**
+<h1 align="center">Burn</h1>
+
+<p align="center"><strong>See what each app really costs your Mac — and what to do about it.</strong></p>
 
 Activity Monitor lists processes. A browser shows up as dozens of anonymous helpers, web
 content processes are scattered across the list, and macOS's own services are a wall of
